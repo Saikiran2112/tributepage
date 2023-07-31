@@ -1,0 +1,21 @@
+img{
+    border-radius: 60%;
+    height:280px;
+    display:inline;
+
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:80px;
+}
+.main{
+    display:flex;
+    justify-content: space-between;
+}
+h5{
+    margin-left:25px;
+    
+}
+.hi{
+    font-size:60px;
+}
